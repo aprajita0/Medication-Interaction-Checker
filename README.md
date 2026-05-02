@@ -13,12 +13,14 @@ MentalMed Interaction Checker is a full-stack web application that helps users i
 ## Tech Stack
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 
 ### Planned Backend
+
 - Node.js
 - Express.js
 - MongoDB
@@ -29,12 +31,14 @@ MentalMed Interaction Checker is a full-stack web application that helps users i
 Frontend MVP is complete and running locally.
 
 ### Completed
+
 - Frontend UI built and styled
 - Medication entry flow implemented
 - Interaction checking flow connected to mock data
 - Responsive layout for desktop and mobile
 
 ### In Progress
+
 - Express backend setup
 - Real API integration for medication search and interaction checking
 - MongoDB integration for storing search history
@@ -46,3 +50,50 @@ Frontend MVP is complete and running locally.
 ```bash
 git clone https://github.com/aprajita0/MentalMed-Interaction-Checker.git
 cd MentalMed-Interaction-Checker
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the frontend locally
+
+```bash
+npm run dev
+```
+
+The app will be available at:
+
+```text
+http://localhost:5173
+```
+
+## Planned Backend Features
+
+- Medication search endpoint
+- Interaction checking endpoint
+- RxNorm / RxNav API integration
+- Optional MongoDB-based search history storage
+
+## Future Improvements
+
+- Connect frontend to live backend endpoints
+- Add medication autocomplete from external APIs
+- Save recent searches
+- Add authentication
+- Add user-specific medication history
+- Add plain-language explanations for interaction results
+
+## Disclaimer
+
+This project is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+
+## Author
+
+Aprajita Srivastava
+
+- GitHub: https://github.com/aprajita0
+- LinkedIn: https://linkedin.com/in/aprajita-srivastava25
+```
