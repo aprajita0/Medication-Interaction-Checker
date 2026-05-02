@@ -1,1 +1,48 @@
-# MentalMed-Interaction-Checker
+# MentalMed Interaction Checker
+
+MentalMed Interaction Checker is a full-stack web application that helps users identify potential interactions between mental health medications. Users can enter multiple medications, review possible drug-drug interactions, and view results in a clean, user-friendly interface.
+
+## Features
+
+- Add multiple medications
+- Prevent duplicate medication entries
+- Check possible medication interactions
+- Responsive and modern frontend UI
+- Built for future integration with medication APIs such as RxNorm / RxNav
+
+## Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### Planned Backend
+- Node.js
+- Express.js
+- MongoDB
+- RxNorm / RxNav APIs
+
+## Project Status
+
+Frontend MVP is complete and running locally.
+
+### Completed
+- Frontend UI built and styled
+- Medication entry flow implemented
+- Interaction checking flow connected to mock data
+- Responsive layout for desktop and mobile
+
+### In Progress
+- Express backend setup
+- Real API integration for medication search and interaction checking
+- MongoDB integration for storing search history
+
+## Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/aprajita0/MentalMed-Interaction-Checker.git
+cd MentalMed-Interaction-Checker
