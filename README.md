@@ -1,6 +1,6 @@
-# MentalMed Interaction Checker
+# Medication Interaction Checker
 
-MentalMed Interaction Checker is a full-stack web application that helps users identify potential interactions between mental health medications. Users can enter multiple medications, review possible drug-drug interactions, and view results in a clean, user-friendly interface.
+Medication Interaction Checker is a full-stack web application that helps users identify potential interactions between mental health medications. Users can enter multiple medications, review possible drug-drug interactions, and view results in a clean, user-friendly interface.
 
 ## Features
 
